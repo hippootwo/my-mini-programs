@@ -1,2 +1,4 @@
 # my-mini-programs
-mini programs from Computer Science HDip
+Mini programs from Computer Science HDip
+
+Just a collection of all the working programs built during the HDip in Computer Science.
